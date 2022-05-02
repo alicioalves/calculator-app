@@ -1,6 +1,6 @@
 # Calculator App
 
-SPA developed with [Vue.js](https://vuejs.org/).
+SPA developed with [Vue.js](https://vuejs.org/) using [VueCLI](https://cli.vuejs.org/).
 
 ## Libraries
 
