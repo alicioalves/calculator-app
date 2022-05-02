@@ -1,0 +1,49 @@
+$orange: #ffc107;
+$dark-gray: #6c757d;
+
+.output-screen {
+  height: 60px;
+  border: 1px solid #000;
+  font-size: 18px;
+}
+
+.expression {
+  font-size: 15px;
+  color: $dark-gray;
+}
+
+.btn {
+  width: 60px;
+  height: 60px;
+  border: 1px solid #000;
+  border-radius: 0;
+  background-color: $dark-gray;
+
+  &:hover {
+    border: 1px solid #000;
+    background-color: darken($dark-gray, 10%);
+  }
+}
+
+.btn-warning {
+  background-color: $orange;
+
+  &:hover {
+    background-color: darken($orange, 8%);
+  }
+
+  &.active-operator {
+    background-color: darken($orange, 8%);
+  }
+}
+
+.card {
+  box-sizing: border-box;
+  width: 242px;
+  border: 1px solid #000;
+  border-radius: 0;
+}
+
+.card-body {
+  padding: 0;
+}
