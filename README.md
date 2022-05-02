@@ -1,4 +1,13 @@
-# calculator-app
+# Calculator App
+
+SPA developed with [Vue.js](https://vuejs.org/).
+
+## Libraries
+
+* To handle most of the math, [math.js](https://mathjs.org/) was used.
+* [BootstrapVue](https://bootstrap-vue.org/) was used to do the tag-structure and the buttons.
+* The other part of the style was made with [Sass](https://sass-lang.com/) using [SCSS](https://sass-lang.com/documentation/syntax).
+
 
 ## Project setup
 ```
