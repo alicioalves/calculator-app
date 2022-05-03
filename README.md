@@ -29,5 +29,8 @@ npm run build
 npm run lint
 ```
 
+## Demo
+A demo of the project can be found [here](https://calculator-aa.netlify.app/)
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
